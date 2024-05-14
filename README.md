@@ -9,4 +9,4 @@ alurastartestudante@email.com
 
 @alurastartestudante
 
-![https://media1.tenor.com/m/1b7f78CPkhwAAAAd/dr-pepper-child.gif]
+![](https://media1.tenor.com/m/1b7f78CPkhwAAAAd/dr-pepper-child.gif)
